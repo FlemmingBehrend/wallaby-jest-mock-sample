@@ -1,0 +1,1 @@
+# wallaby-jest-mock-sample
